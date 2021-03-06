@@ -3,11 +3,11 @@
   <title>朕不知兵吗</title>
   
   <subtitle>Komikado&#39;s blog</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://zoujiehahaha.github.io/hexoblog/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://zoujiehahaha.github.io/hexoblog/"/>
   <updated>2021-03-06T03:59:33.643Z</updated>
-  <id>http://example.com/</id>
+  <id>https://zoujiehahaha.github.io/hexoblog/</id>
   
   <author>
     <name>Komikado</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>写个博客吧</title>
-    <link href="http://example.com/2021/03/06/0306/"/>
-    <id>http://example.com/2021/03/06/0306/</id>
+    <link href="https://zoujiehahaha.github.io/hexoblog/2021/03/06/0306/"/>
+    <id>https://zoujiehahaha.github.io/hexoblog/2021/03/06/0306/</id>
     <published>2021-03-06T03:58:29.000Z</published>
     <updated>2021-03-06T03:59:33.643Z</updated>
     
