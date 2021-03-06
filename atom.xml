@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>朕不知兵吗</title>
+  
+  <subtitle>Komikado&#39;s blog</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-03-06T03:59:33.643Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Komikado</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>写个博客吧</title>
+    <link href="http://example.com/2021/03/06/0306/"/>
+    <id>http://example.com/2021/03/06/0306/</id>
+    <published>2021-03-06T03:58:29.000Z</published>
+    <updated>2021-03-06T03:59:33.643Z</updated>
+    
+    <content type="html"><![CDATA[<p>辅导费的发的发的发的发的发的发的</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;辅导费的发的发的发的发的发的发的&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
