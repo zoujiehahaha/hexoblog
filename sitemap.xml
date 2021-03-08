@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zoujiehahaha.github.io/hexoblog/2021/03/08/20210308/</loc>
+    
+    <lastmod>2021-03-08</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://zoujiehahaha.github.io/hexoblog/2021/03/06/0306/</loc>
     
     <lastmod>2021-03-06</lastmod>
@@ -11,7 +18,7 @@
 
   <url>
     <loc>https://zoujiehahaha.github.io/hexoblog</loc>
-    <lastmod>2021-03-06</lastmod>
+    <lastmod>2021-03-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
